@@ -1,0 +1,54 @@
+body {
+	padding: 20px;
+}
+
+section {
+	width: 100%;
+}
+
+.container {
+	width: 1052px;
+	margin: 0 auto;
+}
+
+.card {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+
+	padding: 20px 15px 32px 23px;
+}
+
+.card1 {
+	margin-right: 48px;
+}
+
+h2 {
+	font-family: 'Helvetica Neue LT GEO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #3F4145;
+	margin-bottom: 20px;
+}
+
+img {
+	height: 77px;
+	width: 77px;
+	margin-right: 37px;
+}
+
+p {
+	width: 335px;
+	height: 95px;
+	font-family: 'Helvetica Neue LT GEO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #7E8898;
+	display: inline-block;
+}
